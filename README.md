@@ -1,2 +1,2 @@
 # Reactjs_Project
-Sample ToDo list SIngle web Application
+Sample ToDo list Single web Application
